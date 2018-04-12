@@ -14,9 +14,13 @@ compute the scheduler performance by providing the waiting time for process, tur
  
  --------------------------------------------
  |  Process    Arrival time   |  Burst time |
+ 
  |   P1           0           |       20    |
+ 
  |   P2           5           |       36    |
+ 
  |   P3           13          |       19    |
+ 
  |   P4           26          |       42    |
  --------------------------------------------
  compute the scheduler performance by providing the waiting time for process, turnaround time for process and average waiting time
